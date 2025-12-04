@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Trendspot Legal AI Demo",
+  "description": "A voice AI demonstration for legal intake and case evaluation powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
